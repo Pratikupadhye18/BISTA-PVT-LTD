@@ -494,7 +494,7 @@ footer { background: var(--navy); color: rgba(255,255,255,0.7); padding: 64px 0 
 .solve-visual {
   border-radius: 18px; overflow: hidden; min-height: 380px; background-size: cover; background-position: center;
   background-color: var(--light-bg);
-  background-image: url("../images/port-night.jpg");
+  background-image: url("../images/homehero.jpeg");
   box-shadow: 0 20px 50px rgba(0,0,0,0.15);
   position: relative;
   transition: transform .5s cubic-bezier(.2,.7,.3,1), box-shadow .5s ease;
